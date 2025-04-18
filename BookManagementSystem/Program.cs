@@ -1,5 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿// Learning objectives
+// Use List<Book> manage object collection
+// Property encapsulation and status mangement
 using BookManagementSystem;
 
 class Program
